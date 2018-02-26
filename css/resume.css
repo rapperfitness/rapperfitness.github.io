@@ -59,6 +59,10 @@ h2 {
   color: #BD5D38;
 }
 
+.lessMargin{
+  margin-bottom: 0px;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
   text-transform: uppercase;
