@@ -12,8 +12,7 @@ b.start()
 
 // typed
 var typed = new Typed('#typed', {
-  strings: ["^1000 I am experienced in web development using HTML, CSS, and Javascript. "
-  ],
+  strings: ["^1000 Hi.", "^1000 I am a Senior at Rutgers University majoring in CS", "^1000 I am graduating in May and currently looking for a full-time job or internship."],
   smartBackspace: true,
   backDelay: 100,
   showCursor: false,
