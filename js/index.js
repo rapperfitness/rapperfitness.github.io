@@ -12,7 +12,7 @@ b.start()
 
 // typed
 var typed = new Typed('#typed', {
-  strings: ["^1000 Hi, I am a Senior majoring in CS at Rutgers University. <br><br>From 2012 to 2016 I worked as a Production Assistant at a company called Powerhouse. I worked with Korean celebrities and my responsibilties included translating, interacting with media and various other departments, acting as a liasion between Koreans and Americans, and sales. <br><br> Currently I balance college with working at a startup called ZUPP, which specializes in fitness technology. I built an e-commerce platform, assisted with business development, marketing, and sales. <br><br> I am interested in leveraging web technology, open-source machine learning libraries, and blockchain networks to drive business results."],
+  strings: ["^1000 Hi, I work as an ERP Analyst for LG. <br><br>I manage financial and accounting systems like SAP Concur, Sage Intacct, and Oracle ERP. I provide functional support for business units, perform technical administrative tasks, and architect solutions.<br><br> Thanks for visiting my site."],
   smartBackspace: true,
   backDelay: 100,
   showCursor: false,
